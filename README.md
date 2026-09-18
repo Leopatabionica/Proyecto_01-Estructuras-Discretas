@@ -151,9 +151,9 @@ Ficha de cada autor citado arriba: dónde encontrarlo físicamente y en qué can
 | NL | Nombre |
 |:-:|---|
 | 04 | Cervantes García Leonardo |
-| 21 | Martínez España Fátima Elisa |
-| 31 | Rangel Ruiz Jesús Uriel |
-| 39 | Santos Gordillo Edgar Emilio |
+| 21 |  |
+| 31 |  |
+| 39 | |
  
 <div align="center">
 <sub>Facultad de Ingeniería, UNAM — Estructuras Discretas</sub>
