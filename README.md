@@ -121,28 +121,28 @@ Ficha de cada autor citado arriba: dónde encontrarlo físicamente y en qué can
  
 ### Biblioteca Ing. Antonio Dovalí Jaime
  
-| Autor (citado como) | Libro | Clasificación | Ejemplares |
+| Autor (citado como) | Libro | Clasificación | Ejemplares | BidiUnam |
 |---|---|---|:-:|
-| **BERMAN / PAUL** | Algorithms: Sequential, Parallel, and Distributed | `QA76.9A43-B467` | 5 |
-| **GRASSMANN / TREMBLAY** | Matemática discreta y lógica: una perspectiva desde la CC | `QA76.9M35-G73` | 23 |
-| **LIU** | Elementos de matemáticas discretas | — | 3 |
-| **ROSEN** | Matemáticas discretas y sus aplicaciones | `QA39.2-R6618 2004` | 1 |
-| **TREMBLAY / MANOHAR / RANGEL** | Matemáticas discretas con aplicación a las CC | `QA39.2-T44 1996` | 20 |
-| **VEERARAJAN / NAGORE** | Matemáticas discretas con teoría de gráficas y combinatoria | `QA248-V4418` | 8 |
-| **ZALDIVAR** | Estructuras discretas. Lógica proposicional y cálculo de predicados | `BC181-Z35` | 23 |
+| **BERMAN / PAUL** | Algorithms: Sequential, Parallel, and Distributed | `QA76.9A43-B467` | 5 | No|
+| **GRASSMANN / TREMBLAY** | Matemática discreta y lógica: una perspectiva desde la CC | `QA76.9M35-G73` | 8 | No|
+| **ROSEN** | Matemáticas discretas y sus aplicaciones | `QA39.2-R6618 2004` | 1 | No|
+| **TREMBLAY / MANOHAR / RANGEL** | Matemáticas discretas con aplicación a las CC | `QA39.2-T44 1996` | 18 | No|
+| **VEERARAJAN / NAGORE** | Matemáticas discretas con teoría de gráficas y combinatoria | `QA248-V4418` | 8 | No
+| **ZALDIVAR** | Estructuras discretas. Lógica proposicional y cálculo de predicados | `BC181-Z35` | 23 | No|
+| **FERLAND** | Matemáticas Discretas y aplicaciones| `QA39 3 F47 2017` | 3 | No|
  
 ### Biblioteca Mtro. Enrique Rivero Borrell
  
 | Autor (citado como) | Libro | Clasificación | Ejemplares | BiDi UNAM |
 |---|---|---|:-:|:-:|
 | **EPP** | Discrete Mathematics with Applications | `QA39.2-E66 2004` | 2 | Sí |
-| **JOHNSONBAUGH** | Discrete Mathematics | `QA39.2-J64 1993` | 3 | |
-| **KOLMAN** | Discrete Mathematical Structures | `QA76.9-K64 1996` | 7 | |
+| **JOHNSONBAUGH** | Discrete Mathematics | `QA39.2-J64 1993` | 3 | No |
+| **KOLMAN** | Discrete Mathematical Structures | `QA76.9-K64 1996` | 7 | No|
 | **LIU** | Elementos de matemáticas discretas | — | 5 | |
-| **ROSEN** | Matemáticas discretas y sus aplicaciones | `QA39.2-R6618 2004` | 1 | |
-| **TREMBLAY / MANOHAR / RANGEL** | Matemáticas discretas con aplicación a las CC | `QA39.2-T44 1996` | 23 | |
-| **VEERARAJAN / NAGORE** | Matemáticas discretas con teoría de gráficas y combinatoria | `QA248-V4418` | 2 | |
-| **ZALDIVAR** | Estructuras discretas. Lógica proposicional y cálculo de predicados | `BC181-Z35` | 7 | |
+| **ROSEN** | Matemáticas discretas y sus aplicaciones | `QA39.2-R6618 2004` | 1 | No|
+| **TREMBLAY / MANOHAR / RANGEL** | Matemáticas discretas con aplicación a las CC | `QA39.2-T44 1996` | 23 | No|
+| **VEERARAJAN / NAGORE** | Matemáticas discretas con teoría de gráficas y combinatoria | `QA248-V4418` | 2 | No|
+| **ZALDIVAR** | Estructuras discretas. Lógica proposicional y cálculo de predicados | `BC181-Z35` | 7 | No|
  
 ---
  
