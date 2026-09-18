@@ -151,9 +151,9 @@ Ficha de cada autor citado arriba: dónde encontrarlo físicamente y en qué can
 | NL | Nombre |
 |:-:|---|
 | 04 | Cervantes García Leonardo |
-| 21 |  |
-| 31 |  |
-| 39 | |
+| 19 |Macazaga Aguilar Ricardo Fabian  |
+| 35 | Ricardo Santos Guzmán|
+| 37 | Juan Carlos Soto Garcis|
  
 <div align="center">
 <sub>Facultad de Ingeniería, UNAM — Estructuras Discretas</sub>
