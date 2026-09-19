@@ -1,11 +1,11 @@
 <div align="center">
 # Estructuras Discretas — Guía Digital de Consulta
  
-*Facultad de Ingeniería, UNAM · Ciencias de la Computación*
+*Facultad de Ingeniería, UNAM · Ingenieria en Computación*
  
-![Temas](https://img.shields.io/badge/Temas-5-blue?style=flat-square)
-![Bibliotecas](https://img.shields.io/badge/Bibliotecas-2-blue?style=flat-square)
-![Libros](https://img.shields.io/badge/Libros%20catalogados-9-blue?style=flat-square)
+[Temas] : 5
+[Bibliotecas] : 2
+[Libros] : 12
  
 </div>
 ---
@@ -15,20 +15,6 @@
 Este repositorio centraliza las mejores referencias bibliográficas para la materia de **Estructuras Discretas**, indicando exactamente **qué libro y qué capítulo** consultar según el tema que se esté estudiando — para no perder tiempo buscando entre decenas de páginas.
  
 > Temario oficial de la asignatura: Programa de Computación UNAM 2023, páginas 131-135
- 
----
- 
-## Navegación rápida por tema
- 
-| # | Tema | Subtemas |
-|:-:|------|:-:|
-| [1](#1-lógica-proposicional-y-cálculo-de-predicados) | Lógica proposicional y cálculo de predicados | 6 |
-| [2](#2-conjuntos-relaciones-y-pruebas-matemáticas) | Conjuntos, relaciones y pruebas matemáticas | 7 |
-| [3](#3-sistemas-algebraicos) | Sistemas algebraicos | 6 |
-| [4](#4-teoría-de-gráficas) | Teoría de gráficas | 5 |
-| [5](#5-teoría-de-la-computabilidad) | Teoría de la computabilidad | 4 |
- 
-*Cada libro citado abajo tiene su ficha completa (autor, clasificación, biblioteca) en la [sección de acervo](#acervo-bibliográfico).*
  
 ---
  
@@ -122,7 +108,7 @@ Ficha de cada autor citado arriba: dónde encontrarlo físicamente y en qué can
 ### Biblioteca Ing. Antonio Dovalí Jaime
  
 | Autor (citado como) | Libro | Clasificación | Ejemplares | BidiUnam |
-|---|---|---|:-:|
+|---|---|---|---|:-:|
 | **BERMAN / PAUL** | Algorithms: Sequential, Parallel, and Distributed | `QA76.9A43-B467` | 5 | No|
 | **GRASSMANN / TREMBLAY** | Matemática discreta y lógica: una perspectiva desde la CC | `QA76.9M35-G73` | 8 | No|
 | **ROSEN** | Matemáticas discretas y sus aplicaciones | `QA39.2-R6618 2004` | 1 | No|
